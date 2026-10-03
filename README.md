@@ -1,14 +1,16 @@
+<h1 align="center">Hi There! I'm Saikat Das 👋</h1>
+
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F5AF0,100:2CB67D&text=Hi%20There!%20I'm%20Saikat%20Das%20👋&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=AI/ML%20Engineer%20•%20Data%20%26%20AI%20Engineering&descAlignY=60"/>
+  <b>AI/ML Engineer • Data &amp; AI Engineering</b>
+</p>
+
+<p align="center">
+  <img src="assets/ai-hands.gif" alt="AI hands animation" width="75%"/>
 </p>
 
 <h3 align="center">
 Building intelligent systems with a focus on LLMs, computer vision, and data-driven engineering.
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;LLMs+%7C+RAG+%7C+Semantic+Search;Computer+Vision+%26+Deep+Learning;Data+%26+AI+Engineering;Always+Building+Something+New+🚀"/>
-</p>
 
 ---
 
